@@ -1,6 +1,6 @@
-# PayTab
+# PayPrayer
 
-Welcome to the PayTab project! This project aims to replicate the basic functionality of PayTM, allowing users to perform transactions, view their account balance, and interact with other users.
+Welcome to the PayPrayer project! This project aims to replicate the basic functionality of PayTM, allowing users to perform transactions, view their account balance, and interact with other users.
 
 ## Features
 
@@ -17,7 +17,7 @@ Welcome to the PayTab project! This project aims to replicate the basic function
 
 ## Database Transactions
 
-The PayTab implements MongoDB Transactions to ensure data consistency and reliability. Transactions follow the ACID properties of databases, ensuring that transactions are either fully completed and committed or reverted back in case of issues, thus preventing inconsistencies in the database.
+The PayPrayer implements MongoDB Transactions to ensure data consistency and reliability. Transactions follow the ACID properties of databases, ensuring that transactions are either fully completed and committed or reverted back in case of issues, thus preventing inconsistencies in the database.
 
 
 # PayPrayer
